@@ -1,2 +1,4 @@
 Esta es una historia
 Mañana nos enfocaremos en su vida laboral
+
+Clonando un repositorio de github al area local
